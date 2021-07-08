@@ -1,0 +1,9 @@
+{
+	"name": "PraveenazureDF",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c7b9987f-5cbe-4c2d-869d-91afb934f472",
+		"tenantId": "a210f568-b1eb-4ac9-b514-90a80e08aca4"
+	}
+}
